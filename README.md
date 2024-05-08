@@ -1,4 +1,4 @@
-### **Hi, I'm SirMaster. 👋🏿**.
+### **Hi, I'm SirMaster 👋🏿**.
 ##
 I am a Game Dev and Full-Stack Programmer, living in Manaus.
 I have experience with designing **systems**, **mechanics**, **combat**, and creating enemies and bosses within 2D and 3D games in Unity and Unreal Engine.
