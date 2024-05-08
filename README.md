@@ -10,7 +10,7 @@ I have experience with designing **systems**, **mechanics**, **combat**, and cre
 - 📝 Currently studying a degree in Mathematics.
 - 📫 How to reach me: israelpaivapinheiro14@gmail.com
 - ⚡ Fun fact:  I worked as CEO, executive director of **Protocolo Zeus E-Sports**. During the time I worked in partnership with Empoliga, I was responsible for strategic decisions, leadership and management of lines (teams), achieving goals and objectives.
-- 😄 Pronouns: Sir/Master (him/his)
+- 😄 Pronouns: Sir/Master (he/him)
 - 🖥️ My machine settings:
   - Processor: Intel I3 12100F 4.30 GHz
   - Video card: NVIDIA GeForcce RTX 3050 8gb
