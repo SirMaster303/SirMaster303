@@ -1,4 +1,5 @@
 ### **Hi, I'm SirMaster 👋🏿**.
+![](https://cdn.discordapp.com/attachments/1174078553256628224/1237988711371898880/2_3.png?ex=663da655&is=663c54d5&hm=2f49baa8a528f2e70257a9db65cb3809a3129fe5ba4f763aa0a4ce575c45b1fa&)
 ##
 I am a Game Dev and Full-Stack Programmer, living in Manaus.
 I have experience with designing **systems**, **mechanics**, **combat**, and creating enemies and bosses within 2D and 3D games in Unity and Unreal Engine.
